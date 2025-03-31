@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RealEstatePropertyListingsPortal.iml" filepath="$PROJECT_DIR$/RealEstatePropertyListingsPortal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebCntent/WebCntent.iml" filepath="$PROJECT_DIR$/WebCntent/WebCntent.iml" />
     </modules>
   </component>
 </project>
